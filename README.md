@@ -1,1 +1,1 @@
-# smwater
+# Basic Smith-Waterman algorithm implementation
